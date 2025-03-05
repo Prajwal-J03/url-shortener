@@ -43,6 +43,7 @@ function App() {
             )}
           </div>
         </div>
+        <p className="absolute bottom-3 right-4">Developed By <a className="text-sky-400 underline underline-offset-3 hover:underline-offset-4 ">Prajwal J</a></p>
       </div>
     </>
   );
